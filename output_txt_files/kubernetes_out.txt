@@ -1,1 +1,9 @@
-<paste log output from Kubernetes-mediated prediction, here>
+(.static-2) doopyduper@Doopys-MBP static-2 % sudo ./run_kubernetes.sh
+Password:
+Flag --generator has been deprecated, has no effect and will be removed in the future.
+Error from server (AlreadyExists): pods "app" already exists
+NAME   READY   STATUS    RESTARTS   AGE
+app    1/1     Running   0          112s
+Forwarding from 127.0.0.1:80 -> 80
+Forwarding from [::1]:80 -> 80
+Handling connection for 80

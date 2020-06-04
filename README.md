@@ -31,4 +31,7 @@ After fixing warnings:
 ![](/screenshots/screenshot-07.png)
 
 - Deploy a container using Kubernetes and make a prediction
+
+![](/screenshots/screenshot-08.png)
+
 - Upload a complete Github repo with CircleCI to indicate that your code has been tested
