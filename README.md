@@ -5,9 +5,11 @@ This project tests my ability to operationalize a Python flask app
 My project goal is to operationalize a working, machine learning microservice using kubernetes
 - Test your project code using linting
 Linting with errors:
+
 ![](/screenshots/screenshot-01.png)
 
 After fixing warnings:
+
 ![](/screenshots/screenshot-02.png)
 
 - Complete a Dockerfile to containerize this application
