@@ -35,3 +35,6 @@ After fixing warnings:
 ![](/screenshots/screenshot-08.png)
 
 - Upload a complete Github repo with CircleCI to indicate that your code has been tested
+
+![](/screenshots/screenshot-10.png)
+
