@@ -27,5 +27,8 @@ After fixing warnings:
 ![](/screenshots/screenshot-05.png)
 
 - Configure Kubernetes and create a Kubernetes cluster
+
+![](/screenshots/screenshot-07.png)
+
 - Deploy a container using Kubernetes and make a prediction
 - Upload a complete Github repo with CircleCI to indicate that your code has been tested
