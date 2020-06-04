@@ -20,7 +20,12 @@ After fixing warnings:
 
 ![](/screenshots/screenshot-04.png)
 
+![](/screenshots/screenshot-06.png)
+
 - Improve the log statements in the source code for this application
+
+![](/screenshots/screenshot-05.png)
+
 - Configure Kubernetes and create a Kubernetes cluster
 - Deploy a container using Kubernetes and make a prediction
 - Upload a complete Github repo with CircleCI to indicate that your code has been tested
