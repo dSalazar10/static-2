@@ -13,4 +13,4 @@ docker image ls
 
 # Step 3: 
 # Run flask app
-docker run -it --rm $DOCKERPATH
+docker run -it -p 80:80 --rm $DOCKERPATH
