@@ -1,5 +1,7 @@
 # Udacity DevOps Engineer Nanodegree Course 5 - Final Project
 This project tests my ability to operationalize a Python flask app
+[![Project-Docker_Workflow](https://circleci.com/gh/dSalazar10/Project-static-2.svg?style=svg)](https://app.circleci.com/pipelines/github/dSalazar10/static-2)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/dsalazar10/udacity)
 
 ## Project Tasks
 My project goal is to operationalize a working, machine learning microservice using kubernetes
