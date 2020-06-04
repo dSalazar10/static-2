@@ -17,6 +17,9 @@ After fixing warnings:
 ![](/screenshots/screenshot-03.png)
 
 - Deploy your containerized application using Docker and make a prediction
+
+![](/screenshots/screenshot-04.png)
+
 - Improve the log statements in the source code for this application
 - Configure Kubernetes and create a Kubernetes cluster
 - Deploy a container using Kubernetes and make a prediction
