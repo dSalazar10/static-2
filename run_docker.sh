@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
 ## Complete the following steps to get Docker running locally
-#dockerpath = "dsalazar10/udacity"
+DOCKERPATH="dsalazar10/udacity"
 
 # Step 1:
 # Build image and add a descriptive tag
-docker build -t dsalazar10/udacity .
+docker build -t $DOCKERPATH .
 
 # Step 2: 
 # List docker images
@@ -13,4 +13,4 @@ docker image ls
 
 # Step 3: 
 # Run flask app
-docker run -it --rm dsalazar10/udacity
+docker run -it --rm $DOCKERPATH
