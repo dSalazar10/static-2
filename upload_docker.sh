@@ -5,11 +5,16 @@
 
 # Step 1:
 # Create dockerpath
-# dockerpath=<your docker ID/path>
+DOCKERPATH="dsalazar10/udacity"
 
 # Step 2:  
 # Authenticate & tag
-echo "Docker ID and Image: $dockerpath"
+docker login
+docker image ls
+echo "Enter Image ID:"
+read IMG_ID
+docker tag $IMG_ID $DOCKERPATH
 
 # Step 3:
 # Push image to a docker repository
+docker push $DOCKERPATH
