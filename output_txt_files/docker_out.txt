@@ -1,1 +1,6 @@
-<paste log output from Docker prediction, here>
+(base) doopyduper@Doopys-MBP static-2 % ./make_prediction.sh              
+Port: 80
+{
+  "prediction": [
+    20.35373177134412
+  ]
